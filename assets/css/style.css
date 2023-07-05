@@ -1028,3 +1028,9 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+
+.swiper-slide img
+{
+  width: 100%;
+}
